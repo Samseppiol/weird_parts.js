@@ -20,4 +20,4 @@
 > Sequence of character, single and double quotes can be used
 
 ###### Symbol
-> Used in es6
+> Used in es6.
