@@ -1,1 +1,1 @@
-## Strict Mode
+## Strict Modes

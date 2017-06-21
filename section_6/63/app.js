@@ -6,7 +6,7 @@
 var person;
 
 
-// Intentional typo 
+// Intentional typos
 persom = {}
 
-console.log(persom)
+console.log(persom) 
