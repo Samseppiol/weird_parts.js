@@ -3,7 +3,7 @@ var people  = [
 		firstname: 'Jack',
 		lastname: 'Doe',
 		addresses: [
-			'123 fake street',
+			'122 fake street',
 			'456 fake street'
 		]
 	},
