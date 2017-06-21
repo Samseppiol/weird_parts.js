@@ -1,12 +1,25 @@
-// Telling the JS engine, please be strict with my code.
-// Must be at the top of the file or at the top of the function
-// You can make a function to be executed with use strict and not the rest of the file
-"use strict";
+var a = 3;
+console.log(typeof a);
 
-var person;
+var b = 'Hello';
+console.log(typeof b);
+
+var c = {};
+console.log(typeof c);
+
+var d = []
+console.log(typeof d); // Apparently weird
+console.log(Object.prototype.toString.call(d));
+
+function Person(name) {
+	this.name = name;
+}
+
+var e = new Person('John');
+console.log(typeof e);
+console.log(e instanceof Person);
+
+console.log(typeof undefined)
+console.log(typeof null);
 
 
-// Intentional typo 
-persom = {}
-
-console.log(persom)

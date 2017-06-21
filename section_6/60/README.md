@@ -1,4 +1,0 @@
-## Odds and Ends
-
-##### Initialization
-
