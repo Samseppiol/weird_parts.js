@@ -20,6 +20,6 @@ console.log(typeof e);
 console.log(e instanceof Person);
 
 console.log(typeof undefined)
-console.log(typeof null);
+console.log(typeof null);;
 
 
